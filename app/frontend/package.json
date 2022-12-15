@@ -53,7 +53,7 @@
     "qunit-dom": "^0.8.4"
   },
   "dependencies": {
-    "ember-cli-update": "^0.48.2"
+    "ember-cli-update": "^1.0.1"
   },
   "ember-addon": {
     "paths": [
